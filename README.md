@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tc2333&layout=compact)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tc2333&theme=flag-india&show_icons=true)
+![tc2333's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tc2333&layout=compact&hide_border=true&langs_count=10)
