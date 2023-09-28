@@ -18,6 +18,13 @@ Here are some ideas to get you started:
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/tc2333/count.svg" />
 </p>
+### My usual programming languages
+
+<p align="left">
+  <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" >
+  <img alt="cplusplus" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" >
+  <img alt="pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" />
+</p>
 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tc2333&theme=flag-india&show_icons=true)
