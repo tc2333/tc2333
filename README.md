@@ -14,10 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 <p align="left"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/tc2333/count.svg" />
 </p>
+
+
 ### My usual programming languages
 
 <p align="left">
